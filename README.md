@@ -162,23 +162,12 @@ docker-compose up -d --build
 docker-compose down
 ```
 
-## Project Structure
+## 📸 Screenshots
+<img width="1909" height="946" alt="473408520-ba5a4ea0-83fc-459e-8a53-5d47de67e70a" src="https://github.com/user-attachments/assets/8aa89264-7f11-4b27-a4d8-2a4e3799d2ea" />
 
-```
-dataforge-synthetic-data-generator/
-├── api/
-│   └── main.py              # FastAPI backend server
-├── src/
-│   ├── App.tsx             # Main React component
-│   ├── main.tsx            # React entry point
-│   ├── index.css           # Global styles and animations
-│   └── vite-env.d.ts       # Vite type definitions
-├── public/
-│   └── vite.svg            # Vite logo
-├── package.json            # Node.js dependencies and scripts
-├── tsconfig.json           # TypeScript configuration
-├── tailwind.config.js      # Tailwind CSS configuration
-├── vite.config.ts          # Vite configuration
-├── requirements.txt        # Frontend requirements documentation
-└── README.md              # This file
-```
+<img width="1906" height="946" alt="473408575-40678197-a246-4971-bd81-5d1484d56cf3" src="https://github.com/user-attachments/assets/a317862e-0afb-4d74-b1da-bd34d44f0156" />
+
+<img width="1911" height="943" alt="473408631-90b386d6-0d98-44a6-a0ad-0ee66d910afa" src="https://github.com/user-attachments/assets/daab694d-c1aa-426c-bcce-0542423eabcb" />
+
+
+
